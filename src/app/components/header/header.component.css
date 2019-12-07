@@ -1,0 +1,21 @@
+.header {
+    background-image: linear-gradient(to right top, #9e0808, #a52525, #a11a1a, #d82121, #e43535);
+    /* background-color: #b4101d; */
+    color: white;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+
+  }
+  
+  .header-logo {
+    height: 40px;
+    padding: 5px;
+    
+  }
+  
+  span {
+    margin: 10px;
+  }
